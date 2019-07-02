@@ -11,7 +11,7 @@
           <br/>
           <div class="tab-content p-b-3">
               <div class="tab-pane active" id="profile">
-                  <h4 class="m-y-2">Anitiks's Profile</h4>
+                  <h4 class="m-y-2">Anitika's Profile</h4>
                   <div class="row">
                       <div class="col-md-6">
                           <h5>About Me</h5>
